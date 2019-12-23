@@ -2,7 +2,7 @@ module.exports = {
   dependency: {
     platforms: {
       android: {
-        packageInstance: "new ExtraDimensionsPackage()"
+        packageInstance: "new RNVersionNumberPackage()"
       }
     }
   }
